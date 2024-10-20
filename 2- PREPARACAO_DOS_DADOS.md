@@ -56,3 +56,12 @@
 
   No painel do ODIN, você irá colar o "Code Snippet" conforme figura abaixo e clicar em "Carregar imagens". Se tudo deu certo, irá aparecer a mensagem de sucesso conforme figura:
   ![Captura de tela 2024-10-20 104247](https://github.com/user-attachments/assets/d8f3bd5b-fce6-4954-b31c-dc1602682215)
+
+  ## 3 - Visualização dos dados
+  Após fazer a importação das imagens, seja pelo Google Drive ou Code Snippet, você poderá visualizar a quantidade de objetos por categoria, assim como alguns exemplos do conjunto. 
+  
+Exemplo de visualização da quantidade de objetos por categoria:
+![Captura de tela 2024-10-20 110339](https://github.com/user-attachments/assets/adfc273b-1628-4c99-9809-bb6f98cf332e)
+
+Exemplo de visualização de exemplos de imagens do conjunto de dados:
+![Captura de tela 2024-10-20 110358](https://github.com/user-attachments/assets/c880289a-8181-4c28-994d-00d75335447f)
