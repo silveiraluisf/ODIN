@@ -18,3 +18,10 @@ Modelos maiores como YOLOv5x e YOLOv5x6 produzirão melhores resultados em quase
 A mesma ideia se aplicar para os modelos YOLOv8. Para implantações móveis, recomendamos YOLOv8n, YOLOv8s ou YOLOv8m, para implantações em nuvem, recomendamos YOLOv8l ou YOLOv8x. Abaixo temos um gráfico comparativo da diferença de desempenho entre as versões do YOLO.
 
 ![Captura de tela 2024-10-20 112444](https://github.com/user-attachments/assets/f81d48d8-192b-42c7-8b9e-5396241ff213)
+
+## Treinamento
+Ao clicar para treinar o modelo, o treinamento dará início. Esse processo pode levar vários minutos, dependendo principalmente da quantidade de épocas que forem configuradas. Aguarde até que a mensagem de treinamento concluído apareça e a barra de progresso fique verde. Ao fina, também será apresentado um resumo do resultado do treinamento.
+
+![Captura de tela 2024-10-20 113324](https://github.com/user-attachments/assets/1d5c7d34-eed2-40b6-ae51-708d5708d9b4)
+
+![Captura de tela 2024-10-20 113607](https://github.com/user-attachments/assets/256788fb-f3a9-4771-a212-6a94f4d544d0)
