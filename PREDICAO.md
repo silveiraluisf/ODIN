@@ -6,4 +6,5 @@
 ## Predição por upload
   Detecção dos objetos no arquivo enviado
 
-![image](https://user-images.githubusercontent.com/20934770/153326935-2ca28464-b205-4aa6-93ff-0f4412f7b2ee.png)
+![Captura de tela 2024-10-20 115845](https://github.com/user-attachments/assets/12d6ebfd-0466-4d28-98ae-ebc82f881ad6)
+
