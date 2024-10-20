@@ -2,6 +2,10 @@
 
 [Preparação dos dados](/PREPARACAO_DOS_DADOS.md)
 
-[Transfer Learning](/TRANSFER_LEARNING.md)
+[Treinamento](/TREINAMENTO.md)
+
+[Avaliação](/AVALIACAO.md)
 
 [Predição](/PREDICAO.md)
+
+[Exportação](/EXPORTACAO.md)
