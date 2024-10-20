@@ -45,7 +45,14 @@
   Obs: este arquivo em alguns casos se chama custom.yaml mas para utilizar a ferramenta será necessário altera-lo para data.yaml
 
   ## 2- Code Snippet
-  
-  ![Captura de tela 2024-10-20 102927](https://github.com/user-attachments/assets/54c58090-1b3d-4007-8f67-9ce1bcae96ad)
+  Para importar o conjunto de dados diretamente do Roboflow você deve acessar o painel "Versions" em seguida clicar no botão de "Download Dataset":
+  ![Captura de tela 2024-10-20 103926](https://github.com/user-attachments/assets/8c66cefe-5a4c-45fe-8a19-df41a5471d12)
 
- 
+  Selecione a versão do YOLO, que deve ser ou "YOLOv5 PyTorch" ou "YOLOv8":
+  ![Captura de tela 2024-10-20 104007](https://github.com/user-attachments/assets/dd95d87d-f510-42cb-8ffe-a4ea1565bd88)
+
+  O Roboflow irá preparar o "Code Snippet" para importação do conjunto de dados, isso pode levar alguns segundos. Então, quando o "Code Snippet" aparecer, você deve copiar o código inteiro: 
+  ![Captura de tela 2024-10-20 104050](https://github.com/user-attachments/assets/bbbafd24-ff3c-4ed1-a785-57ada97bc072)
+
+  No painel do ODIN, você irá colar o "Code Snippet" conforme figura abaixo e clicar em "Carregar imagens". Se tudo deu certo, irá aparecer a mensagem de sucesso conforme figura:
+  ![Captura de tela 2024-10-20 104247](https://github.com/user-attachments/assets/d8f3bd5b-fce6-4954-b31c-dc1602682215)
