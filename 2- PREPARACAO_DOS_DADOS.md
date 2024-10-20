@@ -1,21 +1,22 @@
 [< Voltar](/README.md)
 
 # Preparação dos Dados
-  Há duas maneiras de importar o conjunto de dados para o ODIN. A primeira é através de uma pasta no Google Drive, e a segunda é através de um Code Snippet do Roboflow. A seguir, será apresentado o tutorial para ambas opções:
+  Há duas maneiras de importar o conjunto de dados para o ODIN. A primeira é através de uma pasta no Google Drive, e a segunda é através de um Code Snippet do Roboflow. A seguir, será apresentado o tutorial para ambas opções.
 
 ## 1 - Pasta no Google Drive
   Foi utilizado como padrão para as anotações(labeling) e organização de pastas o Roboflow(https://roboflow.com/). É necessário a utilização do Google Drive ou seja seu dataset PRECISA estar dentro dele.
 
 ### Definição do caminho do dataset
   Ao inserir o caminho, o google drive já será considerado na inserção como no exemplo abaixo:
-  ![image](https://user-images.githubusercontent.com/20934770/151736715-89beb853-6dd9-4737-be5c-b6199b3b7764.png)
-  
-  Caso não exista o diretório ou esteja com formato incorreto ele retornará os exemplos de erros abaixo:
-  ![image](https://user-images.githubusercontent.com/20934770/151736983-c00f24c4-c755-40bf-a9aa-b0be7b5ca3e5.png)
-  ![image](https://user-images.githubusercontent.com/20934770/151737054-e2bef490-8724-4244-9d2f-ac63c75426af.png)
+  ![Captura de tela 2024-10-20 103310](https://github.com/user-attachments/assets/1e0d2ef4-1557-41d9-9ba6-bfcb8149a119)
+
+  Caso não exista o diretório ou esteja com formato incorreto ele retornará o exemplo de erro abaixo:
+  ![Captura de tela 2024-10-20 103526](https://github.com/user-attachments/assets/a45eab0d-f122-4622-8f26-5c1d3ca07877)
+
 
 ### Organização das pastas
   O dataset precisa estar em um padrão definido por 3 pastas ('test', 'train' e 'valid') e 1 arquivo ('data.yaml') como na imagem a seguir:
+  
 ![image](https://user-images.githubusercontent.com/20934770/151734484-4db96339-a55d-4db2-be48-418d7a6bfd90.png)
 
 ### train
@@ -42,3 +43,9 @@
   ![image](https://user-images.githubusercontent.com/20934770/151735219-ae8fb2c7-ed3c-44b6-a84c-81380b2ea063.png)
   
   Obs: este arquivo em alguns casos se chama custom.yaml mas para utilizar a ferramenta será necessário altera-lo para data.yaml
+
+  ## 2- Code Snippet
+  
+  ![Captura de tela 2024-10-20 102927](https://github.com/user-attachments/assets/54c58090-1b3d-4007-8f67-9ce1bcae96ad)
+
+ 
