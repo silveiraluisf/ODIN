@@ -25,6 +25,6 @@
   ![image](https://user-images.githubusercontent.com/20934770/153323810-e4b058cb-d6eb-46c2-9c13-3a6a899d084e.png)
 
 ## Sétimo Passo:
-  Ao terminar os annotations, gere uma nova versão e exporte no formato do YOLOV5 Pytorch
+  Ao terminar os annotations, gere uma nova versão e exporte no formato do YOLOV5 Pytorch ou YOLOv8
   ![image](https://user-images.githubusercontent.com/20934770/153323918-562415be-6099-4185-bfcd-5f9bdb50acf4.png)
   ![image](https://user-images.githubusercontent.com/20934770/153324091-7d117d7c-4de1-4ce9-b202-dba608cb3452.png)
